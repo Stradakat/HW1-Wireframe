@@ -9,6 +9,7 @@ HW Wireframe **/
 body {
   font-size: 18px;
   font-family: arial
+  width: 960px;
  
 
 }
@@ -17,16 +18,16 @@ header {
   padding: 30px;
   margin-bottom: 20px;
   margin-top: 20px;
-  background: #ccc;
-  color:#333;
+  background: #777;
+  color:white;
 }
 
 section {
 padding: 20px;
 margin-bottom: 10px;
-background-color: #777;
+background-color: #eee;
 float: right;
-width:63%;
+width:495px;
 }
 #nav {
   background-color: #666;
@@ -47,6 +48,7 @@ width:63%;
 
 #article {
   background-color: lavender;
+  text-align: center;
   color: black;
   width: 59%;
   float: left;
@@ -55,7 +57,7 @@ width:63%;
 
 #full {
   clear: both;
-  background-color: #eee;
+  background-color: #ccc;
   overflow: auto;
   clear: both;
   width: 100%;
@@ -64,7 +66,7 @@ width:63%;
 
 #division {
   padding: 20px;
-  background-color: #6ea3da;
+  background-color: #ccc;
   margin-top: 20px;
   margin-bottom: : 10px;
 
@@ -72,14 +74,14 @@ width:63%;
 
 #division2 {
   padding: 20px;
-  background-color: #6ea3da;
+  background-color: #ccc;
   margin-top: 20px;
 
 }
 
 
 aside {
-  background-color: pink;
+  background-color: #777;
   width: 90%;
   height: 250px;
   border: 1px solid #eee;
@@ -96,10 +98,7 @@ footer {
 }
 
 #border{
-  border: 80px solid black;
-
-
-
+  border: 100px solid black;
 
 }
 
